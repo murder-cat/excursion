@@ -1,0 +1,31 @@
+html{
+  background-color: black;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  font-size: 30px;
+}
+
+p a{
+  color: #32FEC0;
+}
+
+p{
+  color: #A4A4A4;
+}
+
+.copy{
+  text-align: right;
+  color: #A4A4A4;
+}
+
+.phone{
+  padding-top: 30px;
+}
